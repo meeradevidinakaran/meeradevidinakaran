@@ -11,16 +11,15 @@ Here's What I've been learning 🌱 and building.
 
 # 🛠️ AI Tech Stack
 
-AI/ML: Langflow, RAG Frameworks, LLM Orchestration, Gen AI,
+AI/ML: Langflow, RAG Frameworks, LLM Orchestration, Gen AI, Agentic AI
 
 <img width="83" height="20" alt="image" src="https://github.com/user-attachments/assets/37cd8dcd-9a62-4d81-9ae2-eff00f9fbe3b" />
 <img width="67" height="20" alt="image" src="https://github.com/user-attachments/assets/12874dcc-1a46-41af-ad5d-038debb6fe4b" />
-<img width="63" height="20" alt="image" src="https://github.com/user-attachments/assets/78a18458-e4d4-4e44-9fe8-982885faa395" />
-<img width="49" height="20" alt="image" src="https://github.com/user-attachments/assets/5e74165d-f6b7-4b38-97df-0831db8ebd80" />
 <img width="122" height="20" alt="image" src="https://github.com/user-attachments/assets/95bbe85f-f2cc-4506-a5c2-7d2ed1cf2b93" />
+<img width="49" height="20" alt="image" src="https://github.com/user-attachments/assets/5e74165d-f6b7-4b38-97df-0831db8ebd80" />
 <img width="101" height="20" alt="image" src="https://github.com/user-attachments/assets/6f9ccd84-70b5-4662-a443-2eba7f296a93" />
 <img width="67" height="20" alt="image" src="https://github.com/user-attachments/assets/d4b15eb4-5faa-4224-bd13-c371f3ca123d" />
-<img width="67" height="20" alt="image" src="https://github.com/user-attachments/assets/c07c3361-59d2-44ac-9220-3d58f8c7f7f8" />
+<img width="63" height="20" alt="image" src="https://github.com/user-attachments/assets/78a18458-e4d4-4e44-9fe8-982885faa395" />
 <img width="90" height="20" alt="image" src="https://github.com/user-attachments/assets/c11f809a-2b4e-48a2-99d3-4ab4f47c340d" />
 
 # AI Assistive agents
