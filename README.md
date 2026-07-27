@@ -23,14 +23,18 @@ AI/ML: Langflow, RAG Frameworks, LLM Orchestration, Gen AI, Agentic AI
 <img width="90" height="20" alt="image" src="https://github.com/user-attachments/assets/c11f809a-2b4e-48a2-99d3-4ab4f47c340d" />
 
 # AI Assistive agents
-⚡ Operational Automation
+
+⚡** Operational Automation**
 
   **Ecommerce CID Agent**: State-aware incident detection ensuring zero-duplicate logic for real-time triage.
                             🌐 https://github.com/meeradevidinakaran/Ecommerce-CID-Agent
  
   **CustomerReviewAgent**: Automated sentiment analysis pipeline for proactive customer recovery. 
                             🌐 https://github.com/meeradevidinakaran/CustomerReviewAgent
-
+  
+  **Slack Project Status Chatbot**: Project Status Orchestrator: Multi-System AI Triage for TPM/PMs reducing their manual status gathering time by 80% and                                             allowing them to focus on high-risk mitigation.
+                            🌐 https://github.com/meeradevidinakaran/Slack-Project-Status-chatbot
+  
 # Knowledge + Action Agents
 
 📚 Enterprise RAG & Knowledge Systems
