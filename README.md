@@ -52,5 +52,16 @@ AI/ML: Langflow, RAG Frameworks, LLM Orchestration, Gen AI, Agentic AI
                             🌐  https://github.com/meeradevidinakaran/PM-Assistant---Feature-Prioritization-Workflow
  
   **Multiagent Decision Flow**: Parallel orchestration on Langflow designed to reduce hallucinations through specialized analysis lenses.
-                            
+
+ # Multi-Modal Orchestration
+
+ **Product Health Monitor** -Autonomous Voice Operations- Multi-Modal Product Health Orchestrator on Elevenlabs for AI-Driven Product Insights for SaaS governance.
+                           🌐 https://github.com/meeradevidinakaran/Product_Health_Monitor
+
+ # AI Quality Governance & Optimization Framework
+ 
+ 💯🤖 Measure and Optimize Agentic Workflows
+
+ **Customer Support ticket Evaluation** - Beyond just building AI workflows, Evaluating non deterministic pipelines Offline and Online for Continuous Improvement.
+                           🌐   https://github.com/meeradevidinakaran/Support-Ticket-Agentic-Workflow-Evaluation
 
