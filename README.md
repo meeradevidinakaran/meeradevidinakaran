@@ -55,7 +55,8 @@ Tools: Langflow, Langfuse, Zapier, n8n, Pinecone, Elevenlabs.
   **PM Assistant**: Sequential multi-agent workflow for feature prioritization using specialized roles to manage resource constraints.
                             🌐  https://github.com/meeradevidinakaran/PM-Assistant---Feature-Prioritization-Workflow
  
-  **Parallel Multiagent Orchestration**: Parallel orchestration on Langflow designed to reduce hallucinations through specialized analysis lenses.
+  **Parallel Multiagent Orchestration**: Product Decision Copilot: Parallel Multi-Agent Orchestration & Governance to reduce hallucinations.
+                             🌐    https://github.com/meeradevidinakaran/Multiagent_Decision-flow
 
  # Multi-Modal Orchestration
 
