@@ -1,13 +1,11 @@
 ## Hi there 👋
 
-I am a QA Lead transitioning into Technical Program Management/ Product Management, with a focus on Agentic Workflows and AI System Design.
-My background in automation and quality assurance gives me a unique 'Risk-First' perspective when architecting AI solutions.
-My focus isn't just building for automation; but architecting for trustworthiness, scalability, and operational integrity.
-🔭 Currently, I am exploring the GenAI and Agentic AI landscape and how multi-agent orchestration, RAG frameworks can solve complex business constraints. 
-Here's What I've been learning 🌱 and building. 
+I am a Technical Program Leader specializing in orchestrating high-scale enterprise automation, Agentic workflows, and robust AI system design. 
+Leveraging a deep engineering background in automated infrastructure and software quality, I bring a unique **'Risk-First' architectural lens** to the AI landscape—ensuring all agentic deployments prioritize trustworthiness, deterministic compliance, and operational scaling boundaries. 
+Rather than treating AI as an isolated sandbox, I design and benchmark end-to-end solutions that resolve complex business constraints, map cross-functional system dependencies, and enforce structural governance.
 
+🚀 **Current Focus:** Engineering scalable, resilient, and enterprise-ready AI orchestrations.
 
-🚀Engineering scalable & trust-centric AI orchestrations.
 
 # 🛠️ AI Tech Stack
 
