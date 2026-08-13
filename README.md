@@ -22,7 +22,21 @@ Tools: Langflow, Langfuse, Zapier, n8n, Pinecone, Elevenlabs.
 <img width="112" height="22" alt="image" src="https://github.com/user-attachments/assets/5a2b6962-b13f-4253-84f8-53e206c2c84f" />
 <img width="112" height="32" alt="image" src="https://github.com/user-attachments/assets/d6f08a88-da41-44dc-a5cb-0ceefdd1a461" />
 
+### 🚀 Featured High-Impact Scenarios
 
+<blockquote>
+  <strong>Scenario: Autonomous Voice Operations</strong><br>
+  <strong>Project:</strong> Product Health Monitor<br>
+  <strong>Value:</strong> Uses multi-modal orchestration to provide real-time SaaS insights via voice, reducing manual efforts for sifting data from multiple source and reporting.
+  <strong>Link:</strong> https://github.com/meeradevidinakaran/Product_Health_Monitor
+ </blockquote>
+
+<blockquote>
+  <strong>Scenario: State-Aware Incident Triage</strong><br>
+  <strong>Project:</strong> Ecommerce CID Agent<br>
+  <strong>Value:</strong> Implements a 'Risk-First' architectural lens to ensure zero-duplicate command execution in high-scale environments.
+  <strong>Link:</strong> https://github.com/meeradevidinakaran/CustomerReviewAgent
+</blockquote>
 
 # AI Assistive agents
 
