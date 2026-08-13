@@ -22,22 +22,34 @@ Tools: Langflow, Langfuse, Zapier, n8n, Pinecone, Elevenlabs.
 <img width="112" height="22" alt="image" src="https://github.com/user-attachments/assets/5a2b6962-b13f-4253-84f8-53e206c2c84f" />
 <img width="112" height="32" alt="image" src="https://github.com/user-attachments/assets/d6f08a88-da41-44dc-a5cb-0ceefdd1a461" />
 
-### 🌐 Tile Section: Autonomous Operational Intelligence
+### 🌐 Autonomous Operational Intelligence
 | Business Scenario | AI Orchestration Strategy | Core Technical Win |
 | :--- | :--- | :--- |
-| **Checkout Stability** | [Ecommerce CID Agent](https://github.com/meeradevidinakaran/Ecommerce-CID-Agent) | State-Aware Idempotency |
+| **Checkout Stability** | [Ecommerce CID Agent](https://github.com/meeradevidinakaran/Ecommerce-CID-Agent) | State-Aware incident detection, zero-duplicate logic|
 | **TPM Efficiency** | [Slack Project Status Chatbot](https://github.com/meeradevidinakaran/Slack-Project-Status-chatbot) | 80% Manual Task Reduction |
 | **Customer Recovery** | [CustomerReviewAgent](https://github.com/meeradevidinakaran/CustomerReviewAgent) | Automated Sentiment Triage |
 
 
+### 🧠 Strategic Synthesis & Governance
+| Business Scenario | AI Orchestration Strategy | Core Technical Win |
+| :--- | :--- | :--- |
+| **Product Roadmapping** | [PM Assistant](https://github.com/meeradevidinakaran/PM-Assistant---Feature-Prioritization-Workflow) | Sequential Multi-Agent Logic |
+| **Executive Reporting** | [Autonomous Finance Orchestrator](https://github.com/meeradevidinakaran/RAG-FinReport-Generation) | Multi-Source RAG Synthesis |
 
 
+### 💯 AI Quality Governance & Optimization
+| Business Scenario | AI Orchestration Strategy | Core Technical Win |
+| :--- | :--- | :--- |
+| **Customer Support Benchmarking** | [Support-Ticket Evaluation](https://github.com/meeradevidinakaran/Support-Ticket-Agentic-Workflow-Evaluation) | Offline/Online Evaluation Loops |
+| **Hallucination Mitigation** | [Parallel Multi-Agent Orchestration](https://github.com/meeradevidinakaran/Multiagent_Decision-flow) | Governance-First Logic Gates |
 
 
-
-
-
-
+### 📚 High-Trust Knowledge & Conversational Systems
+| Business Scenario | AI Orchestration Strategy | Core Technical Win |
+| :--- | :--- | :--- |
+| **Enterprise Knowledge Synthesis** | [NovaCart Knowledge Agent](https://github.com/meeradevidinakaran/RAG-Knowledge-Agent-ChatBot) | Grounded Source Attribution |
+| **Voice Ops** | [Product Health Monitor](https://github.com/meeradevidinakaran/Product_Health_Monitor) | Low-Latency Multi-Modal Flow |
+| **Strategic Financial Synthesis** | [RAG-FinReport-Generation Agent](https://github.com/meeradevidinakaran/RAG-FinReport-Generation) | Multi-Index Data Correlation |
 
 
 ### 🚀 Featured High-Impact Scenarios
@@ -45,58 +57,21 @@ Tools: Langflow, Langfuse, Zapier, n8n, Pinecone, Elevenlabs.
 <blockquote>
   <strong>Scenario: Autonomous Voice Operations</strong><br>
   <strong>Project:</strong> Product Health Monitor<br>
-  <strong>Value:</strong> Uses multi-modal orchestration to provide real-time SaaS insights via voice, reducing manual efforts for sifting data from multiple source and reporting.
-  <strong>Link:</strong> https://github.com/meeradevidinakaran/Product_Health_Monitor
+  <strong>Value:</strong> Uses multi-modal orchestration to provide real-time SaaS insights via voice, reducing manual efforts for sifting data from multiple source and reporting.<br>
+  <strong>🌐Link:</strong> https://github.com/meeradevidinakaran/Product_Health_Monitor
  </blockquote>
 
 <blockquote>
-  <strong>Scenario: State-Aware Incident Triage</strong><br>
-  <strong>Project:</strong> Ecommerce CID Agent<br>
-  <strong>Value:</strong> Implements a 'Risk-First' architectural lens to ensure zero-duplicate command execution in high-scale environments.
-  <strong>Link:</strong> https://github.com/meeradevidinakaran/CustomerReviewAgent
+  <strong>Scenario: Project Status Orchestrator</strong><br>
+  <strong>Project:</strong>Slack Project Status Chatbot<br>
+  <strong>Value:</strong> Multi-System AI Triage for TPM/PMs reducing their manual status gathering time by 80%, allowing them to focus on high-risk mitigation.<br>
+  <strong>🌐Link:</strong> https://github.com/meeradevidinakaran/Slack-Project-Status-chatbot
 </blockquote>
 
-# AI Assistive agents
-
-⚡** Operational Automation**
-
-  **Ecommerce CID Agent**: State-aware incident detection ensuring zero-duplicate logic for real-time triage.
-                            🌐 https://github.com/meeradevidinakaran/Ecommerce-CID-Agent
- 
-  **CustomerReviewAgent**: Automated sentiment analysis pipeline for proactive customer recovery. 
-                            🌐 https://github.com/meeradevidinakaran/CustomerReviewAgent
-  
-  **Slack Project Status Chatbot**: Project Status Orchestrator: Multi-System AI Triage for TPM/PMs reducing their manual status gathering time by 80% and                                             allowing them to focus on high-risk mitigation.
-                            🌐 https://github.com/meeradevidinakaran/Slack-Project-Status-chatbot
-  
-# Knowledge + Action Agents
-
-📚 Enterprise RAG & Knowledge Systems
-
-  **NovaCart Knowledge Agent**: High-trust RAG chatbot featuring grounded source attribution and retrieval.
-                            🌐 https://github.com/meeradevidinakaran/RAG-Knowledge-Agent-ChatBot
-  
-  **NovaCart Financial Report generation Agent** : Generate comprehensive Financial reports and scheduled email to intended recepient
-                            🌐 https://github.com/meeradevidinakaran/RAG-FinReport-Generation
-
-# Multi- Agent System
-
-🤖 Agentic Workflows & Decision Support
-  **PM Assistant**: Sequential multi-agent workflow for feature prioritization using specialized roles to manage resource constraints.
-                            🌐  https://github.com/meeradevidinakaran/PM-Assistant---Feature-Prioritization-Workflow
- 
-  **Parallel Multiagent Orchestration**: Product Decision Copilot: Parallel Multi-Agent Orchestration & Governance to reduce hallucinations.
-                             🌐    https://github.com/meeradevidinakaran/Multiagent_Decision-flow
-
- # Multi-Modal Orchestration
-
- **Product Health Monitor** -Autonomous Voice Operations- Multi-Modal Product Health Orchestrator on Elevenlabs for AI-Driven Product Insights for SaaS governance.
-                           🌐 https://github.com/meeradevidinakaran/Product_Health_Monitor
-
- # AI Quality Governance & Optimization Framework
- 
- 💯🤖 Measure and Optimize Agentic Workflows
-
- **Customer Support ticket Evaluation** - Beyond just building AI workflows, Evaluating non deterministic pipelines Offline and Online for Continuous Improvement.
-                           🌐   https://github.com/meeradevidinakaran/Support-Ticket-Agentic-Workflow-Evaluation
+<blockquote>
+  <strong>Scenario:</strong> Product Feature Prioritization <br>
+  <strong>Project:</strong> PM Assistant <br>
+  <strong>Value:</strong> Implements a Sequential multi-agent workflow for feature prioritization using specialized roles to manage resource constraint<br>
+  <strong>🌐Link:</strong> https://github.com/meeradevidinakaran/PM-Assistant---Feature-Prioritization-Workflow
+</blockquote>
 
