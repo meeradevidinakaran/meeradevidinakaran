@@ -22,6 +22,24 @@ Tools: Langflow, Langfuse, Zapier, n8n, Pinecone, Elevenlabs.
 <img width="112" height="22" alt="image" src="https://github.com/user-attachments/assets/5a2b6962-b13f-4253-84f8-53e206c2c84f" />
 <img width="112" height="32" alt="image" src="https://github.com/user-attachments/assets/d6f08a88-da41-44dc-a5cb-0ceefdd1a461" />
 
+### 🌐 Tile Section: Autonomous Operational Intelligence
+| Business Scenario | AI Orchestration Strategy | Core Technical Win |
+| :--- | :--- | :--- |
+| **Checkout Stability** | [Ecommerce CID Agent](https://github.com/meeradevidinakaran/Ecommerce-CID-Agent) | State-Aware Idempotency |
+| **TPM Efficiency** | [Slack Project Status Chatbot](https://github.com/meeradevidinakaran/Slack-Project-Status-chatbot) | 80% Manual Task Reduction |
+| **Customer Recovery** | [CustomerReviewAgent](https://github.com/meeradevidinakaran/CustomerReviewAgent) | Automated Sentiment Triage |
+
+
+
+
+
+
+
+
+
+
+
+
 ### 🚀 Featured High-Impact Scenarios
 
 <blockquote>
