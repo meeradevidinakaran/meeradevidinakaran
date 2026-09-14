@@ -22,6 +22,41 @@ Tools: Langflow, Langfuse, Zapier, n8n, Pinecone, Elevenlabs.
 <img width="112" height="22" alt="image" src="https://github.com/user-attachments/assets/5a2b6962-b13f-4253-84f8-53e206c2c84f" />
 <img width="112" height="32" alt="image" src="https://github.com/user-attachments/assets/d6f08a88-da41-44dc-a5cb-0ceefdd1a461" />
 
+
+### 🚀 Featured High-Impact Scenarios
+
+<blockquote>
+  <strong>Scenario: Autonomous Voice Operations</strong><br>
+  <strong>Project:</strong> Product Health Monitor<br>
+  <strong>Value:</strong> Uses multi-modal orchestration to provide real-time SaaS insights via voice, reducing manual efforts for sifting data from multiple source and reporting.<br>
+  <strong>🌐Link:</strong> https://github.com/meeradevidinakaran/Product_Health_Monitor
+ </blockquote>
+
+<blockquote>
+  <strong>Scenario: Project Status Orchestrator</strong><br>
+  <strong>Project:</strong>Slack Project Status Chatbot<br>
+  <strong>Value:</strong> Multi-System AI Triage for TPM/PMs reducing their manual status gathering time by 80%, allowing them to focus on high-risk mitigation.<br>
+  <strong>🌐Link:</strong> https://github.com/meeradevidinakaran/Slack-Project-Status-chatbot
+</blockquote>
+
+<blockquote>
+  <strong>Scenario:</strong> Product Feature Prioritization <br>
+  <strong>Project:</strong> PM Assistant <br>
+  <strong>Value:</strong> Implements a Sequential multi-agent workflow for feature prioritization using specialized roles to manage resource constraint<br>
+  <strong>🌐Link:</strong> https://github.com/meeradevidinakaran/PM-Assistant---Feature-Prioritization-Workflow
+</blockquote>
+
+<blockquote>
+  <strong>Scenario:</strong> Product documentation Assistant <br>
+  <strong>Project:</strong> PRD Genie <br>
+  <strong>Value:</strong>Autonomous multi-agent pipeline converting messy meeting transcripts, stakeholder notes, and product briefs into engineering-ready PRDs, persona-based Agile backlogs, and stakeholder gap reports in under 2 minutes <br>
+  <strong>🌐Link:</strong> https://github.com/meeradevidinakaran/PRD-Genie---AI-powered-Product-documentation-assistant
+</blockquote>
+
+
+
+
+
 ### 🌐 Autonomous Operational Intelligence
 | Business Scenario | AI Orchestration Strategy | Core Technical Win |
 | :--- | :--- | :--- |
@@ -51,27 +86,4 @@ Tools: Langflow, Langfuse, Zapier, n8n, Pinecone, Elevenlabs.
 | **Voice Ops** | [Product Health Monitor](https://github.com/meeradevidinakaran/Product_Health_Monitor) | Low-Latency Multi-Modal Flow |
 | **Strategic Financial Synthesis** | [RAG-FinReport-Generation Agent](https://github.com/meeradevidinakaran/RAG-FinReport-Generation) | Multi-Index Data Correlation |
 
-
-### 🚀 Featured High-Impact Scenarios
-
-<blockquote>
-  <strong>Scenario: Autonomous Voice Operations</strong><br>
-  <strong>Project:</strong> Product Health Monitor<br>
-  <strong>Value:</strong> Uses multi-modal orchestration to provide real-time SaaS insights via voice, reducing manual efforts for sifting data from multiple source and reporting.<br>
-  <strong>🌐Link:</strong> https://github.com/meeradevidinakaran/Product_Health_Monitor
- </blockquote>
-
-<blockquote>
-  <strong>Scenario: Project Status Orchestrator</strong><br>
-  <strong>Project:</strong>Slack Project Status Chatbot<br>
-  <strong>Value:</strong> Multi-System AI Triage for TPM/PMs reducing their manual status gathering time by 80%, allowing them to focus on high-risk mitigation.<br>
-  <strong>🌐Link:</strong> https://github.com/meeradevidinakaran/Slack-Project-Status-chatbot
-</blockquote>
-
-<blockquote>
-  <strong>Scenario:</strong> Product Feature Prioritization <br>
-  <strong>Project:</strong> PM Assistant <br>
-  <strong>Value:</strong> Implements a Sequential multi-agent workflow for feature prioritization using specialized roles to manage resource constraint<br>
-  <strong>🌐Link:</strong> https://github.com/meeradevidinakaran/PM-Assistant---Feature-Prioritization-Workflow
-</blockquote>
 
