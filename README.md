@@ -40,14 +40,14 @@ Tools: Langflow, Langfuse, Zapier, n8n, Pinecone, Elevenlabs.
 </blockquote>
 
 <blockquote>
-  <strong>Scenario:</strong> Product Feature Prioritization <br>
+  <strong>Scenario: Product Feature Prioritization </strong> <br>
   <strong>Project:</strong> PM Assistant <br>
   <strong>Value:</strong> Implements a Sequential multi-agent workflow for feature prioritization using specialized roles to manage resource constraint<br>
   <strong>🌐Link:</strong> https://github.com/meeradevidinakaran/PM-Assistant---Feature-Prioritization-Workflow
 </blockquote>
 
 <blockquote>
-  <strong>Scenario:</strong> Product documentation Assistant <br>
+  <strong>Scenario: Product documentation Assistant </strong> <br>
   <strong>Project:</strong> PRD Genie <br>
   <strong>Value:</strong>Autonomous multi-agent pipeline converting messy meeting transcripts, stakeholder notes, and product briefs into engineering-ready PRDs, persona-based Agile backlogs, and stakeholder gap reports in under 2 minutes <br>
   <strong>🌐Link:</strong> https://github.com/meeradevidinakaran/PRD-Genie---AI-powered-Product-documentation-assistant
