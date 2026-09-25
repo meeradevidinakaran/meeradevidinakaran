@@ -40,20 +40,47 @@ Tools: Langflow, Langfuse, Zapier, n8n, Pinecone, Elevenlabs.
 </blockquote>
 
 <blockquote>
-  <strong>Scenario: Product Feature Prioritization </strong> <br>
-  <strong>Project:</strong> PM Assistant <br>
-  <strong>Value:</strong> Implements a Sequential multi-agent workflow for feature prioritization using specialized roles to manage resource constraint<br>
-  <strong>🌐Link:</strong> https://github.com/meeradevidinakaran/PM-Assistant---Feature-Prioritization-Workflow
-</blockquote>
-
-<blockquote>
   <strong>Scenario: Product documentation Assistant </strong> <br>
   <strong>Project:</strong> PRD Genie <br>
   <strong>Value:</strong>Autonomous multi-agent pipeline converting messy meeting transcripts, stakeholder notes, and product briefs into engineering-ready PRDs, persona-based Agile backlogs, and stakeholder gap reports in under 2 minutes <br>
   <strong>🌐Link:</strong> https://github.com/meeradevidinakaran/PRD-Genie---AI-powered-Product-documentation-assistant
 </blockquote>
 
+<blockquote>
+  <strong>Scenario: AI Quality Governance </strong> <br>
+  <strong>Project:</strong> PM Assistant <br>
+  <strong>Value:</strong> Implements a Sequential multi-agent workflow for feature prioritization using specialized roles to manage resource constraint<br>
+  <strong>🌐Link:</strong> https://github.com/meeradevidinakaran/PM-Assistant---Feature-Prioritization-Workflow
+</blockquote>
 
+
+<blockquote>
+  <strong>Scenario: Product Feature Prioritization </strong> <br>
+  <strong>Project:</strong> Customer Support ticket Evaluation <br>
+  <strong>Value:</strong> Automated quality evaluation frameworks to benchmark non-deterministic GenAI outputs in continuous integration (CI) workflows<br>
+  <strong>🌐Link:</strong> https://github.com/meeradevidinakaran/Support-Ticket-Agentic-Workflow-Evaluation
+</blockquote>
+
+### 🚀💰 The Strategic Value of Vibe Coding Prototyping
+
+Vibe coding leverages AI-assisted development to rapidly transform conceptual architectures into functional, testable agentic workflows within hours rather than weeks. 
+**How this helps a Tech Leader/ Manager ?**
+
+      1. Establishes Deep Technical Credibility
+      
+      2. Bridges the Gap Between Vision and Feasibility
+      
+      3. De-Risks Investments & Technical Debt
+
+**Here's a collection of 0-to-1 experimental agentic workflows built as prototype samples**
+
+| Exploration / Project | Core Stack & Orchestration | Focus Area | Platform | Glimpse |
+| :--- | :--- | :--- | :--- | :--- |
+| **AI Lead Nurturing Swarm** | `Python` `Multi-Agent Swarm` `LLM-as-a-Judge` | Automated prospect auditing, tier segmentation, & adaptive drip campaign cadences. | OpenHive |<img width="2752" height="1536" alt="The_AI_Lead_Nurturing_Swarm" src="https://github.com/user-attachments/assets/db145cdd-3409-4077-9ce2-4e4e7ba71a55" /> |
+| **Foresight Finance AI Expense manager** | React, TypeScript, Tailwind CSS, Supabase, Multi-Agent LLM Orchestration| Synthesizes multi‑account financial data to deliver real‑time insights, predictive modeling, and automated budget alerts | Lovable | <img width="2752" height="1536" alt="Multi-Agent_AI_Finance_Engine" src="https://github.com/user-attachments/assets/d4eaa7db-b595-413e-ba12-cf3348d391f6" />  |
+<!-- This section is for recruiter notes, not visible on site -->| **[Project Name 3]** *(e.g., Incident Triage Bot)* | `n8n` `Webhooks` `Slack API` | State-aware automated incident detection & error routing for Slack ecosystems. | Prevented duplicate triage tickets using state tracking (`last_processed_timestamp`). | 🔒 Private *(Demo on Request)* |
+
+Full implementation templates/prompt libraries and production scaling strategies are maintained in a private repository; access for technical review is available upon request.
 
 
 
