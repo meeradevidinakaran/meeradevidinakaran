@@ -64,6 +64,7 @@ Tools: Langflow, Langfuse, Zapier, n8n, Pinecone, Elevenlabs.
 ### 🚀💰 The Strategic Value of Vibe Coding Prototyping
 
 Vibe coding leverages AI-assisted development to rapidly transform conceptual architectures into functional, testable agentic workflows within hours rather than weeks. 
+
 **How this helps a Tech Leader/ Manager ?**
 
       1. Establishes Deep Technical Credibility
@@ -78,7 +79,7 @@ Vibe coding leverages AI-assisted development to rapidly transform conceptual ar
 | :--- | :--- | :--- | :--- | :--- |
 | **AI Lead Nurturing Swarm** | `Python` `Multi-Agent Swarm` `LLM-as-a-Judge` | Automated prospect auditing, tier segmentation, & adaptive drip campaign cadences. | OpenHive |<img width="2752" height="1536" alt="The_AI_Lead_Nurturing_Swarm" src="https://github.com/user-attachments/assets/db145cdd-3409-4077-9ce2-4e4e7ba71a55" /> |
 | **Foresight Finance AI Expense manager** | React, TypeScript, Tailwind CSS, Supabase, Multi-Agent LLM Orchestration| Synthesizes multi‑account financial data to deliver real‑time insights, predictive modeling, and automated budget alerts | Lovable | <img width="2752" height="1536" alt="Multi-Agent_AI_Finance_Engine" src="https://github.com/user-attachments/assets/d4eaa7db-b595-413e-ba12-cf3348d391f6" />  |
-<!-- This section is for recruiter notes, not visible on site -->| **[Project Name 3]** *(e.g., Incident Triage Bot)* | `n8n` `Webhooks` `Slack API` | State-aware automated incident detection & error routing for Slack ecosystems. | Prevented duplicate triage tickets using state tracking (`last_processed_timestamp`). | 🔒 Private *(Demo on Request)* |
+
 
 Full implementation templates/prompt libraries and production scaling strategies are maintained in a private repository; access for technical review is available upon request.
 
