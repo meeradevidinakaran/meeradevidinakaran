@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a Technical Program Leader specializing in orchestrating high-scale enterprise automation, Agentic workflows, and robust AI system design. 
+I am a Technical Program Manager specializing in orchestrating high-scale enterprise automation, Agentic workflows, and robust AI system design. 
 Leveraging a deep engineering background in automated infrastructure and software quality, I bring a unique **'Risk-First' architectural lens** to the AI landscape—ensuring all agentic deployments prioritize trustworthiness, deterministic compliance, and operational scaling boundaries. 
 Rather than treating AI as an isolated sandbox, I design and benchmark end-to-end solutions that resolve complex business constraints, map cross-functional system dependencies, and enforce structural governance.
 
