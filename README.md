@@ -9,7 +9,7 @@ Rather than treating AI as an isolated sandbox, I design and benchmark end-to-en
 
 # 🛠️ AI Tech Stack
 
-Tools: Langflow, Langfuse, Zapier, n8n, Pinecone, Elevenlabs.
+Langflow, Langfuse, Zapier, n8n, Pinecone, Elevenlabs, Claude, Lovable
 
 <img width="83" height="20" alt="image" src="https://github.com/user-attachments/assets/37cd8dcd-9a62-4d81-9ae2-eff00f9fbe3b" />
 <img width="67" height="20" alt="image" src="https://github.com/user-attachments/assets/12874dcc-1a46-41af-ad5d-038debb6fe4b" />
@@ -18,6 +18,8 @@ Tools: Langflow, Langfuse, Zapier, n8n, Pinecone, Elevenlabs.
 <img width="101" height="20" alt="image" src="https://github.com/user-attachments/assets/6f9ccd84-70b5-4662-a443-2eba7f296a93" />
 <img width="67" height="20" alt="image" src="https://github.com/user-attachments/assets/d4b15eb4-5faa-4224-bd13-c371f3ca123d" />
 <img width="63" height="20" alt="image" src="https://github.com/user-attachments/assets/78a18458-e4d4-4e44-9fe8-982885faa395" />
+<img width="157" height="20" alt="image" src="https://github.com/user-attachments/assets/977fe573-ce90-4d02-a887-d4a0b1d95fd1" />
+<img width="126" height="20" alt="image" src="https://github.com/user-attachments/assets/2294d137-8480-4200-9194-69f9ada3d20c" />
 <img width="90" height="20" alt="image" src="https://github.com/user-attachments/assets/c11f809a-2b4e-48a2-99d3-4ab4f47c340d" />
 <img width="112" height="22" alt="image" src="https://github.com/user-attachments/assets/5a2b6962-b13f-4253-84f8-53e206c2c84f" />
 <img width="112" height="32" alt="image" src="https://github.com/user-attachments/assets/d6f08a88-da41-44dc-a5cb-0ceefdd1a461" />
